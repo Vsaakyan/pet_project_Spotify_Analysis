@@ -10,6 +10,11 @@ The project consists of 2 main parts:
 ## 1. Data Analysis
 Data Analysis consists of three components, namely:
 ### 1.1 Exploratory Data Analysis.
+- Loading the dataset to pandas table.
+- Taking a look at DataFrame.
+- Shape of the DataFrame.
+- Taking a look on the main characteristics (describe()).
+- Taking a look at dtypes and missing values in columns.
 ### 1.2 Data Preproccessing.
 - Renaming the column names to lower case and add underscores instead of spaces, if any.
 - Dropping the unuseful columns from the dataset.
